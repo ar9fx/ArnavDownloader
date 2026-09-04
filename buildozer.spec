@@ -20,9 +20,3 @@ fullscreen = 0
 
 log_level = 2
 warn_on_root = 1
-
-
-[buildozer]
-
-# This section can be left as-is if your build environment
-# supplies the Android SDK/NDK automatically.
